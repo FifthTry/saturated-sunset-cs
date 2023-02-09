@@ -1,8 +1,4 @@
-# saturated-sunset-cs
-Saturated Sunset Color Scheme
-
-
-## Adding Warmth and Energy to Your Designs with the Saturated Sunset Color Scheme
+# Adding Warmth and Energy to Your Designs with the Saturated Sunset Color Scheme
 
 The colors we choose for our designs can have a big impact on the mood and emotions they evoke. Whether you're designing a website, app, or any other project, the right color scheme can take your design to the next level. And for designs that want to convey warmth, energy, and a sense of adventure, the saturated sunset color scheme is the perfect choice.
 
