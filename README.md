@@ -7,3 +7,6 @@ The saturated sunset color scheme is inspired by the colors of the sun as it set
 Using the saturated sunset color scheme is easy with the help of a package like `saturated-sunset-cs`. This package provides a pre-made color palette, making it simple to incorporate these warm, inviting colors into your designs. Whether you're a beginner or an experienced designer, the saturated-sunset-cs package makes it easy to add a touch of the sunset to your designs.
 
 So if you're looking for a color scheme that will add warmth, energy, and a sense of adventure to your designs, the saturated sunset color scheme is the perfect choice. With the help of the saturated-sunset-cs package, it's easy to add this vibrant and inviting color palette to your projects.
+
+
+<img src="saturated-sunset.png"  width="30%" height="60%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="saturated-sunset-dark.png"  width="30%" height="60%">
