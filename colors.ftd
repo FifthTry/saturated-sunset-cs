@@ -336,21 +336,3 @@ eight: $custom-eight-
 nine: $custom-nine-
 ten: $custom-ten-
 
--- ftd.color-scheme main:
-background: $background-
-border: $border-
-border-strong: $border-strong-
-text: $text-
-text-strong: $text-strong-
-shadow: $shadow-
-scrim: $scrim-
-cta-primary: $cta-primary-
-cta-secondary: $cta-secondary-
-cta-tertiary: $cta-tertiary-
-cta-danger: $cta-danger-
-accent: $accent-
-error: $error-btb-
-success: $success-btb-
-info: $info-btb-
-warning: $warning-btb-
-custom: $custom-

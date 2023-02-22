@@ -1,12 +1,12 @@
 -- import: fifthtry.github.io/color-doc/color-ui as cu
 -- import: fastn
--- import: fifthtry.github.io/color-doc  as cd
+-- import: fifthtry.github.io/color-doc as cd
 -- import: fifthtry.github.io/saturated-sunset-cs/colors
 
 
 
 -- cd.color-display-one:
-colors: $colors.main
+colors: $main
 minimize: true
 
 
@@ -67,3 +67,26 @@ minimize: true
 
 -- end: all-color-display
 
+
+
+
+
+
+-- ftd.color-scheme main:
+background: $colors.background-
+border: $colors.border-
+border-strong: $colors.border-strong-
+text: $colors.text-
+text-strong: $colors.text-strong-
+shadow: $colors.shadow-
+scrim: $colors.scrim-
+cta-primary: $colors.cta-primary-
+cta-secondary: $colors.cta-secondary-
+cta-tertiary: $colors.cta-tertiary-
+cta-danger: $colors.cta-danger-
+accent: $colors.accent-
+error: $colors.error-btb-
+success: $colors.success-btb-
+info: $colors.info-btb-
+warning: $colors.warning-btb-
+custom: $colors.custom-
