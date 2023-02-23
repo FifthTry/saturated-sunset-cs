@@ -1,13 +1,18 @@
 -- import: fifthtry.github.io/color-doc/color-ui as cu
 -- import: fastn
+-- import: fastn/processors as pr
 -- import: fifthtry.github.io/color-doc as cd
 -- import: fifthtry.github.io/saturated-sunset-cs/colors
 
-
+-- string figma-json:
+$processor$: pr.figma-cs-token
+variable: $main
+name: saturated-sunset-cs
 
 -- cd.color-display-one:
 colors: $main
 minimize: true
+figma-json: $figma-json
 
 
 
