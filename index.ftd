@@ -334,7 +334,7 @@ would be possible without your support. We would love to hear from you.
 optional string figma-json:
 optional ftd.image-src logo:
 caption title: Saturated Sunset CS
-optional string tagline: 
+optional string tagline:
 optional body body:
 children cs-wrap:
 ftd.ui list rightbar:
@@ -347,8 +347,9 @@ padding-top.px: 60
 -- ftd.column:
 width: fill-container
 
+-- ftd.desktop:
+
 -- ftd.row:
-if: { ftd.device == "desktop" }
 width: fill-container
 spacing.fixed.px: 34
 
@@ -362,7 +363,7 @@ role: $inherited.types.heading-tiny
 color: #212738
 style: bold
 
--- ftd.text: 
+-- ftd.text:
 if: { color-scheme.body != NULL}
 role: $inherited.types.copy-regular
 color: #212738
@@ -390,8 +391,12 @@ childrens: $color-scheme.rightbar
 
 -- end: ftd.row
 
+-- end: ftd.desktop
+
+
+-- ftd.mobile:
+
 -- ftd.column:
-if: { ftd.device == "mobile" }
 width: fill-container
 spacing.fixed.px: 34
 
@@ -405,7 +410,7 @@ role: $inherited.types.heading-tiny
 color: #212738
 style: bold
 
--- ftd.text: 
+-- ftd.text:
 if: { color-scheme.body != NULL}
 role: $inherited.types.copy-regular
 color: #212738
@@ -429,6 +434,8 @@ childrens: $color-scheme.rightbar
 -- end: ftd.column
 
 -- end: ftd.column
+
+-- end: ftd.mobile
 
 -- end: ftd.column
 
