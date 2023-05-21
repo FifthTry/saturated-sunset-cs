@@ -1,7 +1,6 @@
 -- import: fastn
 
 -- fastn.package: fifthtry.github.io/saturated-sunset-cs
-download-base-url: https://raw.githubusercontent.com/fifthtry/saturated-sunset-cs/main
 
 -- fastn.dependency: fifthtry.github.io/code-block
 -- fastn.dependency: fastn-community.github.io/inter-typography
