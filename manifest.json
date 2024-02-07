@@ -1,0 +1,101 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "8E5522C780FCA17EB0103EC50A855B144ADDAFC523177B081149E0E24C75ADA2",
+      "size": 590
+    },
+    "LICENSE": {
+      "name": "LICENSE",
+      "checksum": "F1FCBB1DD828CA07899A8C64AAE32CAF6C7E65919B5F7FB528637D31096214C9",
+      "size": 1495
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "690C814ADC377FC026F4275B3F14C7B4DE022B37FEFF4DE568FED954A7ED9968",
+      "size": 1695
+    },
+    "colors.ftd": {
+      "name": "colors.ftd",
+      "checksum": "FF61B59B9C331C4400CEB5B13DB906DF1E30FF8DEF032CEFBE626524934F1445",
+      "size": 6557
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "EEEE7333802C35D6CC6CDE9B3A46B8573C9F824B7571EFD5623EBAA7786AF47A",
+      "size": 36590
+    },
+    "saturated-sunset-dark.png": {
+      "name": "saturated-sunset-dark.png",
+      "checksum": "2FA7391ACE3C5BE0A2063A28CAF74853AA2C56AC41C789E8C2BC0F1B73134E1D",
+      "size": 421890
+    },
+    "saturated-sunset.png": {
+      "name": "saturated-sunset.png",
+      "checksum": "E661537FB69574C9E4F90AEF30742C1CD840BD24F96DD87E1DF2545A50568F7F",
+      "size": 329113
+    },
+    "static/author-icon.svg": {
+      "name": "static/author-icon.svg",
+      "checksum": "022EE00A4418F3A2D78331BE17ED1A9AF182BDD132B1C3AF77C71FB22405164C",
+      "size": 574
+    },
+    "static/bsd-license-icon.svg": {
+      "name": "static/bsd-license-icon.svg",
+      "checksum": "37620B7B8D59CC99E28E89D7D5D7D7C8CB63EFF3B93BB57F7E11141D43BBD097",
+      "size": 1218
+    },
+    "static/code-outline-icon.svg": {
+      "name": "static/code-outline-icon.svg",
+      "checksum": "997E659F2336536E74559F06DBC381821E8AA83E9EC9267F95EF01BBD61E6205",
+      "size": 772
+    },
+    "static/discord-icon.svg": {
+      "name": "static/discord-icon.svg",
+      "checksum": "02AF24DE0D342A20BB81D3FF85E29B6A30E21F0F88869ABFCAAD0FF164D0F4E8",
+      "size": 2515
+    },
+    "static/fastn-logo.svg": {
+      "name": "static/fastn-logo.svg",
+      "checksum": "22B700AEFCA7EDBC65EBF80740F0F901424CBC8DE5D078059D42AAB03D2572BD",
+      "size": 80423
+    },
+    "static/image.svg": {
+      "name": "static/image.svg",
+      "checksum": "3F3ACA7E9FE32496901D790C30157C2984476961E46B2680B8F8457CCCB9512E",
+      "size": 5888792
+    },
+    "static/img.svg": {
+      "name": "static/img.svg",
+      "checksum": "F30BFB3E2D31FF32C05EBC2AA9039B9874BC1C97CD6760415DB156CB8474B5DC",
+      "size": 1192119
+    },
+    "static/link-icon.svg": {
+      "name": "static/link-icon.svg",
+      "checksum": "A70F92AA340A098879133B4A070A62F6C37572C26F77A5E37AAC5C6542A9A2B2",
+      "size": 1534
+    },
+    "static/menu.svg": {
+      "name": "static/menu.svg",
+      "checksum": "D5616F0774B8DCCB86ECF34B4B8C224B6A361363648A56CA1D191CC5249D0406",
+      "size": 174
+    },
+    "static/more.svg": {
+      "name": "static/more.svg",
+      "checksum": "7BEA941B3095A66502A136976122CE349B9D6045E56BAF7972264075BF475AEE",
+      "size": 350
+    },
+    "static/search.svg": {
+      "name": "static/search.svg",
+      "checksum": "58E17815CDCFBF74E2F1C7C0DDC5528A07656B5281520A1BF036478E943CFD84",
+      "size": 697
+    },
+    "static/share.svg": {
+      "name": "static/share.svg",
+      "checksum": "1B389C359790FB4AD9AE8C33536A82055ECCD18199208AAF59F00D342DC77B3C",
+      "size": 1153
+    }
+  },
+  "zip_url": "https://codeload.github.com/fifthtry/saturated-sunset-cs/zip/refs/heads/main",
+  "checksum": "3F136B1D22A4580E1AFD74AA842CB508B4F0D74BCADB37A2B7875FF103C6213A"
+}
